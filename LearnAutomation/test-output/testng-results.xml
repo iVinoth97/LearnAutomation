@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-29T15:55:47 IST" name="Default suite" finished-at="2023-05-29T15:55:47 IST" duration-ms="95">
+    <groups>
+    </groups>
+    <test started-at="2023-05-29T15:55:47 IST" name="Default test" finished-at="2023-05-29T15:55:47 IST" duration-ms="95">
+      <class name="testNgExamples.DependencyManagenment">
+        <test-method signature="SSLC()[pri:0, instance:testNgExamples.DependencyManagenment@1de5f259]" started-at="2023-05-29T15:55:47 IST" name="SSLC" finished-at="2023-05-29T15:55:47 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SSLC -->
+        <test-method signature="HSC()[pri:1, instance:testNgExamples.DependencyManagenment@1de5f259]" started-at="2023-05-29T15:55:47 IST" name="HSC" finished-at="2023-05-29T15:55:47 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HSC -->
+        <test-method signature="College()[pri:2, instance:testNgExamples.DependencyManagenment@1de5f259]" started-at="2023-05-29T15:55:47 IST" name="College" finished-at="2023-05-29T15:55:47 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- College -->
+      </class> <!-- testNgExamples.DependencyManagenment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
