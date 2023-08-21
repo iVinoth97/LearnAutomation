@@ -3,4 +3,4 @@
 3. Reverse Each Word of the String
 4. Remove VOWELS from the String
 5. Finding Smallest Number inArray - In progress
-
+6. Program to be decided
